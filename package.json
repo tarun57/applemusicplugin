@@ -1,0 +1,14 @@
+{
+  "name": "Applemusic",
+  "version": "0.1.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-apple",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "n"
+}
